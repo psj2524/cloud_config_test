@@ -1,0 +1,6 @@
+token:
+  expiration_time: 8640001
+  secret: usertoken5001344658751232132usertoken5001344658751usertoken5001344658751232132usertoken5001344658751
+
+gateway:
+  ip: 192.168.124.97
